@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.109,=C:\Users\w530\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.347,=C:\Users\w530\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.889,C:\Users\w530\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\w530\Documents\Embarcadero\Studio\Projects\SplineFunctions.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.889,C:\Users\w530\Documents\Embarcadero\Studio\Projects\EAN.pas=C:\Users\w530\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.261,C:\Users\w530\Documents\Embarcadero\Studio\Projects\EAN_PROJECT.dproj=C:\Users\w530\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.889,C:\Users\w530\Documents\Embarcadero\Studio\Projects\EAN.dfm=C:\Users\w530\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
